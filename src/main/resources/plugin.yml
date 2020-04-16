@@ -1,0 +1,10 @@
+name: ToolKit
+version: 1.0
+author: TazBruce
+main: io.github.TazBruce.ToolKit.Main
+api-version: 1.15
+commands:
+  ToolKit:
+    aliases: [Toolkit, toolkit, tk]
+    description: Summons a pickaxe, shovel, and axe to player
+    usage: "Usage: /<command> [wood|stone|iron|gold|diamond]"
